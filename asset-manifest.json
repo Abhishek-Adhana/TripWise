@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/.github.io/TripWise/static/css/main.39693a81.css",
+    "main.js": "/.github.io/TripWise/static/js/main.337430d0.js",
+    "static/media/3.jpg": "/.github.io/TripWise/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/.github.io/TripWise/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/.github.io/TripWise/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/8.jpg": "/.github.io/TripWise/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/.github.io/TripWise/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/.github.io/TripWise/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/4.jpg": "/.github.io/TripWise/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/.github.io/TripWise/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/.github.io/TripWise/index.html",
+    "main.39693a81.css.map": "/.github.io/TripWise/static/css/main.39693a81.css.map",
+    "main.337430d0.js.map": "/.github.io/TripWise/static/js/main.337430d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39693a81.css",
+    "static/js/main.337430d0.js"
+  ]
+}
